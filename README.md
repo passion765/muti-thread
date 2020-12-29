@@ -1,4 +1,6 @@
 # muti-thread
+
+'''py
 # -*- coding: utf-8 -*-
 import time
 from muti_thread.muti_thread import thread_create,thread_append,thread_start_and_join
@@ -42,4 +44,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    
+'''
 
